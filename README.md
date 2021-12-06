@@ -53,13 +53,13 @@ Essa requisição retorna o preço da APPL (Apple).
 * Não há restrições com relação a soluções de storage de dados
 * Adicione o README.md no seu repositório
 
-## O que iremos focar ao analisar o se código?
+## O que iremos focar ao analisar o seu código?
 
 * Qualidade do código
   * Organização de código e legibilidade
   * Principios SOLID
   * Design patterns (se aplicável)
-* Proatividade em fazer perguntas, psequisas e tomada de decisões
+* Proatividade em fazer perguntas, pesquisas e tomada de decisões
 
 ## Bônus
 
